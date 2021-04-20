@@ -1,5 +1,7 @@
 # repo
 
+### this is a ritual that all candidates of Poet Society must go through
+### *please read this poetry*
 
 ## Shall I compare thee to a summer's day?
 __William Shakespeare__
